@@ -1,6 +1,6 @@
 streamlit==1.40.0
-torch==2.3.0+cpu
-torchvision==0.18.0+cpu
+torch==2.5.1+cpu
+torchvision==0.20.1+cpu
 --extra-index-url https://download.pytorch.org/whl/cpu
 scikit-learn
 joblib
